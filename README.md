@@ -25,6 +25,11 @@ Data Storage, concept, and usage of Primary Key and Foreign Key. Use of JS to en
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/8eed418d-4eff-479c-a236-fd52554eaf6c)
 
+## message: after enrollment:
+
+![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/ddf6a967-0a0f-411d-8806-a42168ac6901)
+
+
 
 ## second: Admin Login 
 
