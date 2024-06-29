@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Admission Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Student Admission Form</h1>
+    <form id="admissionForm" action="submit_form.php" method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend>Personal Details</legend>
+            <label for="first_name">First Name:</label>
+            <input type="text" id="first_name" name="first_name" required><br>
+            
+            <label for="last_name">Last Name:</label>
+            <input type="text" id="last_name" name="last_name" required><br>
+
+            <label for="dob">Date of Birth:</label>
+            <input type="date" id="dob" name="dob" required><br>
+
+            <label for="gender">Gender:</label>
+            <select id="gender" name="gender" required>
+                <option value="">Select</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select><br>
+
+            <label for="phone">Phone:</label>
+            <input type="text" id="phone" name="phone" required><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Address Details</legend>
+            <label for="street_address">Street Address:</label>
+            <input type="text" id="street_address" name="street_address" required><br>
+
+            <label for="city">City:</label>
+            <input type="text" id="city" name="city" required><br>
+
+            <label for="state">State:</label>
+            <input type="text" id="state" name="state" required><br>
+
+            <label for="postal_code">Postal Code:</label>
+            <input type="text" id="postal_code" name="postal_code" required><br>
+
+            <label for="country">Country:</label>
+            <input type="text" id="country" name="country" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Class/Course Details</legend>
+            <label for="class">Class:</label>
+            <input type="text" id="class" name="class" required><br>
+
+            <label for="course">Course:</label>
+            <input type="text" id="course" name="course" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Previous Qualifications</legend>
+            <label for="qualification_name">Qualification Name:</label>
+            <input type="text" id="qualification_name" name="qualification_name" required><br>
+
+            <label for="institution">Institution:</label>
+            <input type="text" id="institution" name="institution" required><br>
+
+            <label for="year_of_passing">Year of Passing:</label>
+            <input type="text" id="year_of_passing" name="year_of_passing" required><br>
+
+            <label for="percentage">Percentage:</label>
+            <input type="text" id="percentage" name="percentage" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Photograph Upload</legend>
+            <label for="photograph">Upload Photograph:</label>
+            <input type="file" id="photograph" name="photograph" required><br>
+        </fieldset>
+
+        <input type="submit" value="Submit">
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
