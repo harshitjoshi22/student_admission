@@ -1,19 +1,19 @@
 # Student Admission System 
 
-Design a student admission form to capture following details:
+Design a student admission form to capture the following details:
 1. Personal Details
 2. Address Details
 3. Class/Course Details
 4. Previous Qualifications
 5. Photograph Upload
    
-After admission ADMIN must be able to Approve, Edit and Delete application. 
+After admission ADMIN must be able to Approve, Edit and Delete applications. 
 ADMIN must be able to search records by Name, Date of Admission, Mobile Number, etc. 
-After approval of ADMIN a printable version of application form should be available. 
+After approval of ADMIN, a printable version of the application form should be available. 
 
 ## Objective:
-To understand basic concept of Create, Read, Update, and Delete (CRUD) using PHP, MySQL and JavaScript. 
-Data Storage, concept and usage of Primary Key and Foreign Key. Use of JS to enhance 
+To understand the basic concept of Create, Read, Update, and Delete (CRUD) using PHP, MySQL and JavaScript. 
+Data Storage, concept, and usage of Primary Key and Foreign Key. Use of JS to enhance 
 
 ## Screenshot 
 
@@ -25,13 +25,16 @@ Data Storage, concept and usage of Primary Key and Foreign Key. Use of JS to enh
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/8eed418d-4eff-479c-a236-fd52554eaf6c)
 
+
 ## second: Admin Login 
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/789f439d-af81-49b8-b9fa-1a8a6070af7e)
 
+
 ## third: Admin Dashboard 
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/195b1d04-30ec-4583-af93-f3eff7dbaa21)
+
 
 ## fourth: edit, delete, and view applications.
 
@@ -43,10 +46,16 @@ Data Storage, concept and usage of Primary Key and Foreign Key. Use of JS to enh
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/e4893275-bffd-40b2-8ff0-1897710e56e6)
 
+## delete (now 3 columns visible only):
+
+![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/262c821c-c14c-4799-97d5-dfcc31675eed)
+
+
 
 ## fifth: Search applications by name, phone, dob, etc.
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/c622c55a-4943-4e01-a8ac-de9397c20111)
+
 
 ## Print Application ( after admin approved ): 
 
