@@ -43,8 +43,16 @@ Data Storage, concept and usage of Primary Key and Foreign Key. Use of JS to enh
 
 ![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/e4893275-bffd-40b2-8ff0-1897710e56e6)
 
-## delete:
 
+## fifth: Search applications by name, phone, dob, etc.
+
+![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/c622c55a-4943-4e01-a8ac-de9397c20111)
+
+## Print Application ( after admin approved ): 
+
+![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/3930a4f2-320d-4f7a-b51d-816472d1d679)
+
+![image](https://github.com/harshitjoshi22/student_admission/assets/170124286/f811727d-dd87-4be9-bb81-17a971c69835)
 
 
 
